@@ -26,4 +26,3 @@ speakers.each do |speaker|
 end
 
 assign_rooms
-
